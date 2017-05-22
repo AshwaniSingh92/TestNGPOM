@@ -1,0 +1,112 @@
+[INFO] : 2017-05-17 20:30:28,109 : com.Pages.Tests.TestBase :++++++++++Starting new Session++++++++++++++++
+[INFO] : 2017-05-17 20:30:52,496 : com.Pages.Tests.TestBase :Entered URL
+[INFO] : 2017-05-17 20:30:52,721 : com.Pages.Tests.TestBase :Entering from City
+[INFO] : 2017-05-17 20:30:55,999 : com.Pages.Tests.TestBase :Entering To City
+[INFO] : 2017-05-17 20:30:56,282 : com.Pages.Tests.TestBase :java.lang.AssertionError: Value Not Entered
+[INFO] : 2017-05-17 20:30:59,551 : com.Pages.Tests.TestBase :Entering To City
+[INFO] : 2017-05-17 20:30:59,688 : com.Pages.Tests.TestBase :java.lang.AssertionError: Value Not Entered
+[INFO] : 2017-05-17 20:30:59,689 : com.Pages.Tests.TestBase :Retry Failure Quitting Application
+[INFO] : 2017-05-17 20:30:59,967 : com.Pages.Tests.TestBase :Quitting driver
+[INFO] : 2017-05-17 20:31:22,148 : com.Pages.Tests.TestBase :++++++++++Starting new Session++++++++++++++++
+[INFO] : 2017-05-17 20:31:33,410 : com.Pages.Tests.TestBase :Entered URL
+[INFO] : 2017-05-17 20:31:33,523 : com.Pages.Tests.TestBase :Entering from City
+[INFO] : 2017-05-17 20:31:36,841 : com.Pages.Tests.TestBase :Entering To City
+[INFO] : 2017-05-17 20:31:37,036 : com.Pages.Tests.TestBase :java.lang.AssertionError: Value Not Entered
+[INFO] : 2017-05-17 20:31:40,268 : com.Pages.Tests.TestBase :Entering To City
+[INFO] : 2017-05-17 20:31:40,437 : com.Pages.Tests.TestBase :java.lang.AssertionError: Value Not Entered
+[INFO] : 2017-05-17 20:31:40,438 : com.Pages.Tests.TestBase :Retry Failure Quitting Application
+[INFO] : 2017-05-17 20:31:40,680 : com.Pages.Tests.TestBase :Quitting driver
+[INFO] : 2017-05-17 20:32:05,054 : com.Pages.Tests.TestBase :++++++++++Starting new Session++++++++++++++++
+[INFO] : 2017-05-17 20:32:25,189 : com.Pages.Tests.TestBase :Entered URL
+[INFO] : 2017-05-17 20:32:25,292 : com.Pages.Tests.TestBase :Entering from City
+[INFO] : 2017-05-17 20:32:28,570 : com.Pages.Tests.TestBase :Entering To City
+[INFO] : 2017-05-17 20:32:28,771 : com.Pages.Tests.TestBase :java.lang.AssertionError: Value Not Entered
+[INFO] : 2017-05-17 20:32:32,005 : com.Pages.Tests.TestBase :Entering To City
+[INFO] : 2017-05-17 20:32:32,150 : com.Pages.Tests.TestBase :java.lang.AssertionError: Value Not Entered
+[INFO] : 2017-05-17 20:32:32,150 : com.Pages.Tests.TestBase :Retry Failure Quitting Application
+[INFO] : 2017-05-17 20:32:32,488 : com.Pages.Tests.TestBase :Quitting driver
+[INFO] : 2017-05-17 20:34:04,106 : com.Pages.Tests.TestBase :++++++++++Starting new Session++++++++++++++++
+[INFO] : 2017-05-17 20:34:13,230 : com.Pages.Tests.TestBase :Entered URL
+[INFO] : 2017-05-17 20:34:13,337 : com.Pages.Tests.TestBase :Entering from City
+[INFO] : 2017-05-17 20:34:16,665 : com.Pages.Tests.TestBase :Entering To City
+[INFO] : 2017-05-17 20:34:16,811 : com.Pages.Tests.TestBase :java.lang.AssertionError: Value Not Entered
+[INFO] : 2017-05-17 20:34:20,145 : com.Pages.Tests.TestBase :Entering To City
+[INFO] : 2017-05-17 20:34:20,328 : com.Pages.Tests.TestBase :java.lang.AssertionError: Value Not Entered
+[INFO] : 2017-05-17 20:34:20,328 : com.Pages.Tests.TestBase :Retry Failure Quitting Application
+[INFO] : 2017-05-17 20:34:20,680 : com.Pages.Tests.TestBase :Quitting driver
+[INFO] : 2017-05-17 20:35:13,511 : com.Pages.Tests.TestBase :++++++++++Starting new Session++++++++++++++++
+[INFO] : 2017-05-17 20:35:30,991 : com.Pages.Tests.TestBase :Entered URL
+[INFO] : 2017-05-17 20:35:31,141 : com.Pages.Tests.TestBase :Entering from City
+[INFO] : 2017-05-17 20:35:34,347 : com.Pages.Tests.TestBase :Entering To City
+[INFO] : 2017-05-17 20:35:34,585 : com.Pages.Tests.TestBase :Clearing the destination city Text Field
+[INFO] : 2017-05-17 20:35:34,701 : com.Pages.Tests.TestBase :Entering To city Text Field
+[INFO] : 2017-05-17 20:35:34,896 : com.Pages.Tests.TestBase :Willingly entering the wrong city :BLR
+[INFO] : 2017-05-17 20:35:38,119 : com.Pages.Tests.TestBase :java.lang.AssertionError: Wrong City entered
+[INFO] : 2017-05-17 20:35:38,335 : com.Pages.Tests.TestBase :Re-entering destination city Text Field
+[INFO] : 2017-05-17 20:35:38,335 : com.Pages.Tests.TestBase :Clearing the destination city Text Field
+[INFO] : 2017-05-17 20:35:38,393 : com.Pages.Tests.TestBase :Entering destination city Text Field
+[INFO] : 2017-05-17 20:35:41,933 : com.Pages.Tests.TestBase :Destination City enteredMumbai (BOM)
+[INFO] : 2017-05-17 20:35:41,937 : com.Pages.Tests.TestBase :Clicking on date box
+[INFO] : 2017-05-17 20:35:48,251 : com.Pages.Tests.TestBase :Clicking on passangers box
+[INFO] : 2017-05-17 20:35:51,474 : com.Pages.Tests.TestBase :Clicking on Search
+[INFO] : 2017-05-17 20:36:03,436 : com.Pages.Tests.TestBase :Clicked on Search Button
+[INFO] : 2017-05-17 20:36:03,448 : com.Pages.Tests.TestBase :Wait for the visibility of the element
+[INFO] : 2017-05-17 20:36:03,549 : com.Pages.Tests.TestBase :Populating the flight details
+[INFO] : 2017-05-17 20:36:08,370 : com.Pages.Tests.TestBase :Quitting driver
+[INFO] : 2017-05-17 20:37:02,806 : com.Pages.Tests.TestBase :++++++++++Starting new Session++++++++++++++++
+[INFO] : 2017-05-17 20:37:58,598 : com.Pages.Tests.TestBase :++++++++++Starting new Session++++++++++++++++
+[INFO] : 2017-05-17 20:38:09,360 : com.Pages.Tests.TestBase :Entered URL
+[INFO] : 2017-05-17 20:38:09,471 : com.Pages.Tests.TestBase :Entering from City
+[INFO] : 2017-05-17 20:39:02,771 : com.Pages.Tests.TestBase :++++++++++Starting new Session++++++++++++++++
+[INFO] : 2017-05-17 20:39:29,830 : com.Pages.Tests.TestBase :Entered URL
+[INFO] : 2017-05-17 20:39:29,927 : com.Pages.Tests.TestBase :Entering from City
+[INFO] : 2017-05-17 20:39:33,224 : com.Pages.Tests.TestBase :Entering To City
+[INFO] : 2017-05-17 20:39:33,403 : com.Pages.Tests.TestBase :Clearing the destination city Text Field
+[INFO] : 2017-05-17 20:39:33,500 : com.Pages.Tests.TestBase :Entering To city Text Field
+[INFO] : 2017-05-17 20:39:33,701 : com.Pages.Tests.TestBase :Willingly entering the wrong city :BLR
+[INFO] : 2017-05-17 20:39:36,769 : com.Pages.Tests.TestBase :java.lang.AssertionError: Wrong City entered
+[INFO] : 2017-05-17 20:39:36,963 : com.Pages.Tests.TestBase :Re-entering destination city Text Field
+[INFO] : 2017-05-17 20:39:36,963 : com.Pages.Tests.TestBase :Clearing the destination city Text Field
+[INFO] : 2017-05-17 20:39:36,993 : com.Pages.Tests.TestBase :Entering destination city Text Field
+[INFO] : 2017-05-17 20:39:40,383 : com.Pages.Tests.TestBase :java.lang.AssertionError: Value Not Entered
+[INFO] : 2017-05-17 20:39:40,383 : com.Pages.Tests.TestBase :Retry Failure Quitting Application
+[INFO] : 2017-05-17 20:39:40,569 : com.Pages.Tests.TestBase :Quitting driver
+[INFO] : 2017-05-17 20:40:37,845 : com.Pages.Tests.TestBase :++++++++++Starting new Session++++++++++++++++
+[INFO] : 2017-05-17 20:40:49,991 : com.Pages.Tests.TestBase :Entered URL
+[INFO] : 2017-05-17 20:40:50,084 : com.Pages.Tests.TestBase :Entering from City
+[INFO] : 2017-05-17 20:40:53,862 : com.Pages.Tests.TestBase :Entering To City
+[INFO] : 2017-05-17 20:40:54,008 : com.Pages.Tests.TestBase :Clearing the destination city Text Field
+[INFO] : 2017-05-17 20:40:54,110 : com.Pages.Tests.TestBase :Entering To city Text Field
+[INFO] : 2017-05-17 20:40:54,327 : com.Pages.Tests.TestBase :Willingly entering the wrong city :BLR
+[INFO] : 2017-05-17 20:40:57,526 : com.Pages.Tests.TestBase :java.lang.AssertionError: Wrong City entered
+[INFO] : 2017-05-17 20:40:57,778 : com.Pages.Tests.TestBase :Re-entering destination city Text Field
+[INFO] : 2017-05-17 20:40:57,778 : com.Pages.Tests.TestBase :Clearing the destination city Text Field
+[INFO] : 2017-05-17 20:40:57,873 : com.Pages.Tests.TestBase :Entering destination city Text Field
+[INFO] : 2017-05-17 20:41:01,396 : com.Pages.Tests.TestBase :Destination City enteredMumbai (BOM)
+[INFO] : 2017-05-17 20:41:01,400 : com.Pages.Tests.TestBase :Clicking on date box
+[INFO] : 2017-05-17 20:41:07,741 : com.Pages.Tests.TestBase :Clicking on passangers box
+[INFO] : 2017-05-17 20:41:11,118 : com.Pages.Tests.TestBase :Clicking on Search
+[INFO] : 2017-05-17 20:41:20,032 : com.Pages.Tests.TestBase :Clicked on Search Button
+[INFO] : 2017-05-17 20:41:20,036 : com.Pages.Tests.TestBase :Wait for the visibility of the element
+[INFO] : 2017-05-17 20:41:20,132 : com.Pages.Tests.TestBase :Populating the flight details
+[INFO] : 2017-05-17 20:41:26,334 : com.Pages.Tests.TestBase :Quitting driver
+[INFO] : 2017-05-17 21:05:41,551 : com.Pages.Tests.TestBase :++++++++++Starting new Session++++++++++++++++
+[INFO] : 2017-05-17 21:05:57,964 : com.Pages.Tests.TestBase :Entered URL
+[INFO] : 2017-05-17 21:05:58,055 : com.Pages.Tests.TestBase :Entering from City
+[INFO] : 2017-05-17 21:06:01,287 : com.Pages.Tests.TestBase :Entering To City
+[INFO] : 2017-05-17 21:06:01,559 : com.Pages.Tests.TestBase :Clearing the destination city Text Field
+[INFO] : 2017-05-17 21:06:01,663 : com.Pages.Tests.TestBase :Entering To city Text Field
+[INFO] : 2017-05-17 21:06:01,860 : com.Pages.Tests.TestBase :Willingly entering the wrong city :BLR
+[INFO] : 2017-05-17 21:06:05,162 : com.Pages.Tests.TestBase :java.lang.AssertionError: Wrong City entered
+[INFO] : 2017-05-17 21:06:05,451 : com.Pages.Tests.TestBase :Re-entering destination city Text Field
+[INFO] : 2017-05-17 21:06:05,452 : com.Pages.Tests.TestBase :Clearing the destination city Text Field
+[INFO] : 2017-05-17 21:06:05,510 : com.Pages.Tests.TestBase :Entering destination city Text Field
+[INFO] : 2017-05-17 21:06:09,271 : com.Pages.Tests.TestBase :Destination City enteredMumbai (BOM)
+[INFO] : 2017-05-17 21:06:09,275 : com.Pages.Tests.TestBase :Clicking on date box
+[INFO] : 2017-05-17 21:06:15,522 : com.Pages.Tests.TestBase :Clicking on passangers box
+[INFO] : 2017-05-17 21:06:18,902 : com.Pages.Tests.TestBase :Clicking on Search
+[INFO] : 2017-05-17 21:06:28,578 : com.Pages.Tests.TestBase :Clicked on Search Button
+[INFO] : 2017-05-17 21:06:28,583 : com.Pages.Tests.TestBase :Wait for the visibility of the element
+[INFO] : 2017-05-17 21:06:28,736 : com.Pages.Tests.TestBase :Populating the flight details
+[INFO] : 2017-05-17 21:07:03,970 : com.Pages.Tests.TestBase :Exception in Flight details populator
+[INFO] : 2017-05-17 21:07:04,019 : com.Pages.Tests.TestBase :Quitting driver
